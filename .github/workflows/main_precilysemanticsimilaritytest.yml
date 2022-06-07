@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'precilySemanticSimilarityTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B52CB83E87DD47CFBC29C69358D9720E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C1A13FE6CE5433890B32A6D43C1A4F6 }}
